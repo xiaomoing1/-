@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+git clone https://github.com/<你的用户名>/<仓库名>.git
+cd <仓库名>
+# 将你的项目文件复制到此目录，然后执行：
+git add .
+git commit -m "Initial commit"
+git push origin main
+
+<head>
+    <title>显示图片案例</title>
+</head>
+<body>
+    <h1>肆</h1>
+    <img src="image.png" alt="白" width="400">
+</body>
+</html> 
